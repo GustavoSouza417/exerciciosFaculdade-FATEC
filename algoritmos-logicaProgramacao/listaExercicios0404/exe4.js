@@ -1,7 +1,7 @@
 //CABEÇALHO
 	//descrição: programa que cria duas variáveis e troca o valor delas
-	//autor: Gustavo Silva Souza
-	//data: 01/04/2023
+	//autor:     Gustavo Silva Souza
+	//data:      01/04/2023
 
 //VARIÁVEIS
 	//float num1, num2, num3
