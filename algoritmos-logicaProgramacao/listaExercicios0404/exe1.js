@@ -1,8 +1,15 @@
-//programa que lê 2 números inteiros (base e expoente) e calcule a potência
+//CABEÇALHO
+	//descrição: programa que lê 2 números inteiros (base e expoente) e calcule a potência
+	//autor:     Gustavo Silva Souza
+	//data:      03/04/2023
 
-var num1 = 5
-var num2 = 2
+//VARIÁVEIS
+	//float num1, num2, potencia
 
-var potencia = num1
+//INÍCIO
+	var num1 = 5
+	var num2 = 3
+	var potencia = num1 ** num2
 
-// 5 p 2 = 5 . 5 = 25
+	console.log(potencia)
+//FIM
